@@ -21,6 +21,8 @@
 	<string>사진 공유를 위해 카메라 접근 허가 요청</string>
 	<key>NSMicrophoneUsageDescription</key>
 	<string>인스타 스토리에 올리기 위한 마이크 허가 요청</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>사진 저장하기 위해 라이브러리 접근 허가 요청</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
